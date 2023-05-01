@@ -38,6 +38,6 @@ class SqlKecamatanRepository
                 $row->name,
             );
         }
-        return $provinsi;
+        return $kecamatan;
     }
 }
